@@ -6,7 +6,10 @@
 1. download python with path enabled 
 2. green code button> download as zip> extract file> remove old zip file
 3. open terminal as administrator
-4. cd to directory ect. C:/Users/ballsack/Downloads/cookieRipper.py
+4. cd to directory ect. C:/Users/ballsack/Downloads/CookieRipper-main
+5. pip install required modules
+6. python3 CookieRipper.py
+7. done!
 
 # Features
 
@@ -14,3 +17,5 @@
 2. auto checks cookies generated
 3. valid cookies get saved to cookies.txt
 4. ip block prevention 
+
+any questions write an issue and ill reply within a couple of days
